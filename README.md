@@ -49,7 +49,7 @@ and place it as:
 data/ACDC/lists_ACDC
 data/ACDC/test
 data/ACDC/train
-data/acdc/valid
+data/ACDC/valid
 ```
 
 ### 3. Pretrained backbone (MaxViT, ImageNet-256)
