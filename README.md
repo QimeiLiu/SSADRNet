@@ -106,6 +106,7 @@ We are very grateful for these excellent works
 [timm](https://github.com/huggingface/pytorch-image-models),
 [CASCADE](https://github.com/SLDGroup/CASCADE),
 [PraNet](https://github.com/DengPingFan/PraNet),
+[MERIT](https://github.com/SLDGroup/MERIT),
 [Polyp-PVT](https://github.com/DengPingFan/Polyp-PVT) and
 [TransUNet](https://github.com/Beckschen/TransUNet), which have provided the basis for
 our framework.
