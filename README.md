@@ -73,13 +73,13 @@ export MERIT_PRETRAINED=/path/to/maxxvit_rmlp_small_rw_256_sw-37e217ff.pth
 **Synapse**
 
 ```bash
-python train_synapse.py
+python -W ignore train_synapse.py
 ```
 
 **ACDC**
 
 ```bash
-python train_acdc.py
+python -W ignore train_acdc.py
 ```
 
 
